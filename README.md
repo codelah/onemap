@@ -59,6 +59,10 @@ Feeling lucky? `.resolve()` cuts to the chase and returns you the first result i
     >>> res
     {u'buildingname': u'ISTANA', 'coordinates': [103.84309296124401, 1.3068716489030177], u'postalcode': u'238823', u'block': u'0', 'y': 32132.8209, 'x': 29087.8352, u'road':     u'ORCHARD ROAD'}
 
+# Installation
+
+    $ pip install onemap
+
 
 # SVY21
 
